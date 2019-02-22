@@ -25,6 +25,12 @@ IT系の専門を卒業後、某総研の24H365Dのチームにて金融系イ�
 - AzureからGCPへのインフラ移行
 - リモートでインフラ周りの口出す顧問
 
+# 使ったことあるツール
+- チケット/タスク管理
+Github/Redmine/Backlog/JIRA/Trello
+- docs管理
+Github/esa/docbase/asana
+
 # 今興味あること
 - 英語(海外でエンジニアとして働けるレベル)
 - デジタルノマド

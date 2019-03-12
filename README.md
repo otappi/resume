@@ -25,18 +25,18 @@ IT系の専門を卒業後、某総研の24H365Dのチームにて金融系イ�
 - AzureからGCPへのインフラ移行
 - リモートでインフラ周りの口出す顧問
 
-# 使えるツール
+# 使えるツール (左から好きな順)
 ### チケット/タスク管理
-Github issues/Redmine/Backlog/JIRA/Trello
+Trello/Github issues/Backlog/JIRA/Wrike/asana/Redmine
 
 ### docs管理
-Github/esa/docbase/asana
+Github/esa/docbase
 
 ### 監視
 Datadog/NewRelic/Mackerel
 
 ### CI/CD
-CircleCI/
+GCP Cloud Build/AWS CodeBuild/CircleCI/Jenkins
 
 # 資格など
 - GCP Professional Cloud Architect

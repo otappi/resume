@@ -38,6 +38,12 @@ Datadog/NewRelic/Mackerel
 ### CI/CD
 GCP Cloud Build/AWS CodeBuild/CircleCI/Jenkins
 
+### Infrastructure as Code
+Docker/Terraform/Ansible
+
+### Kubernetes
+kustomize/kubesec/kubectx/kubens/stern/helm/kube-aws
+
 # 資格など
 - GCP Professional Cloud Architect
 - FP3級
